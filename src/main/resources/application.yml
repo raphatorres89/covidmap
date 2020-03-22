@@ -1,0 +1,4 @@
+covid:
+  url:
+    database: https://www.bing.com/covid/data?IG=43D819DE3AE5411E8C07972ECAFC23DC
+    by-date: https://www.bing.com/covid/graphdata
